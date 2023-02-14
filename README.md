@@ -1,1 +1,1 @@
-alguma hora coloco algo aqui
+Meus arquivos de configurações do Linux.
