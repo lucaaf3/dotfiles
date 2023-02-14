@@ -1,0 +1,46 @@
+! special
+URxvt.foreground:   #c5c8c6
+URxvt.background:   #000000
+URxvt.cursorColor:  #c5c8c6
+
+! black
+URxvt.color0:       #1d1f21
+URxvt.color8:       #969896
+
+! red
+URxvt.color1:       #cc342b
+URxvt.color9:       #cc342b
+
+! green
+URxvt.color2:       #198844
+URxvt.color10:      #198844
+
+! yellow
+URxvt.color3:       #fba922
+URxvt.color11:      #fba922
+
+! blue
+URxvt.color4:       #3971ed
+URxvt.color12:      #3971ed
+
+! magenta
+URxvt.color5:       #a36ac7
+URxvt.color13:      #a36ac7
+
+! cyan
+URxvt.color6:       #3971ed
+URxvt.color14:      #3971ed
+
+! white
+URxvt.color7:       #c5c8c6
+URxvt.color15:      #ffffff
+
+URxvt.font: xft:DejaVu Sans Mono:size=11
+URxvt.scrollBar: false
+!URxvt.cursorColor: magenta
+
+URxvt.perl-ext-common: default,matcher,resize-font,url-select,fullscreen
+URxvt.colorUL: #4682b4
+URxvt.keysym.F11: perl:fullscreen:switch
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
